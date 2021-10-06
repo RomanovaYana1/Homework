@@ -5,3 +5,11 @@
 	<pets>2</pets>
 	<pay>700</pay>
 </about_me>
+<?xml version="1.0" encoding="UTF-8" ?>
+<favorite>
+	<Seris>Vikings</series>
+        <Film>Hotel Grand Budapest</Film>
+        <Food>pizza</Food>
+        <Time>winter</Time>
+        <Country>Ukraine</Country>
+</favorite>	
